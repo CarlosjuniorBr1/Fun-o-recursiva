@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\aula7\aula7\bin\Debug\net6.0\aula7.exe
+C:\Users\T-GAMER\source\repos\aula7\aula7\bin\Debug\net6.0\aula7.deps.json
+C:\Users\T-GAMER\source\repos\aula7\aula7\bin\Debug\net6.0\aula7.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\aula7\aula7\bin\Debug\net6.0\aula7.dll
+C:\Users\T-GAMER\source\repos\aula7\aula7\bin\Debug\net6.0\aula7.pdb
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.dll
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\refint\aula7.dll
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.pdb
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\aula7.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\aula7\aula7\obj\Debug\net6.0\ref\aula7.dll
